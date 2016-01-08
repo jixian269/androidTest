@@ -29,7 +29,7 @@ public class test {
 			}
 		}
 		for(Object[] objs:list){
-//			syso
+			System.out.println();
 			System.out.println("1:"+objs[0]+"  2:"+objs[1]+"  3:"+objs[2]+"  4:"+objs[3]);
 		}
 	}
